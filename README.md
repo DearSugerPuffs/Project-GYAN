@@ -1,2 +1,2 @@
 # Project-GYAN
- Only For Practice ..
+ Only For Practice & Without Responsive ..
